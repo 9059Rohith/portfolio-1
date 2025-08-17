@@ -17,7 +17,7 @@ This isn't just another portfolio website. This is a digital masterpiece that co
 
 60fps Performance - Optimized for smooth animations across all devices
 Responsive Design - Perfect experience from mobile to 4K displays
-Advanced Parallax - 8-layer deep scrolling system
+Advanced Parallax - 8layer deep scrolling system
 Intersection Observer - Smooth scroll-triggered animations
 GPU Acceleration - Hardware-accelerated 3D transforms
 
